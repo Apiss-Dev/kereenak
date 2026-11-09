@@ -4,7 +4,7 @@ const PROV_NAME='Perumahan Bojong Menteng';
 const PROV_ST='Jl. Borneo Utara V No. 221';
 const PROV_ADDR=PROV_NAME.', '.PROV_ST;
 const ORIGIN=PROV_ADDR.', Bekasi, Jawa Barat';
-const COURIER_NAME='Raihan Erza';
+const COURIER_NAME='Raihan Ezra';
 const COURIER_PLATE='Honda PCX B 80 IDN';
 define('GMAPS_KEY',cfg('gmaps_key',''));
 const BANK='Seabank 901707814600 a.n. Joyce Margaretha';
